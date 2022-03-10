@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282645437752",
+    "project_id": "fir-yoga-497de",
+    "storage_bucket": "fir-yoga-497de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282645437752:android:cea746f60f857d23cef5cd",
+        "android_client_info": {
+          "package_name": "in.mahesh.mahi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282645437752-u61idv80s2ltbe6pi1c6isp6ffn12mln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWaf1HbbSm8HSsE42MNYdV-Yd-vrggF60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282645437752-u61idv80s2ltbe6pi1c6isp6ffn12mln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
