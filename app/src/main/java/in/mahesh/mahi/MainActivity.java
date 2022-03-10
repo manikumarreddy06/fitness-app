@@ -139,20 +139,20 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 */
-    public void beforeage18(View view) {
+   /* public void beforeage18(View view) {
 
         Intent intent = new Intent(MainActivity.this,SecondActivity.class);
         startActivity(intent);
 
 
 
-    }
+    }*/
 
-    public void aftereage18(View view) {
+  /*  public void aftereage18(View view) {
 
         Intent intent = new Intent(MainActivity.this,SecondActivity2.class);
         startActivity(intent);
-    }
+    }*/
     public void food(View view) {
 
 
@@ -160,12 +160,12 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    @Override
+   /* @Override
     public void onBackPressed() {
         Intent intent = new Intent(MainActivity.this,MainActivity.class);
         startActivity(intent);
         finish();
-    }
+    }*/
 
     /* private void populateUnifiedNativeAdView(UnifiedNativeAd nativeAd, UnifiedNativeAdView adView) {
         adView.setMediaView((MediaView) adView.findViewById(R.id.ad_media));
